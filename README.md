@@ -23,6 +23,9 @@ and creative photo memories inspired by coffee culture.
 - **Version Control:** Git & GitHub  
 
 
+![Home](screenshots/home.png)
+![Camera Page ](screenshots/camera-page.png)
+
 
 PhotoBooth-Coffee-Edition/
 index.html --> style.css --> script.js --> assets --> screenshots -->  README.md
