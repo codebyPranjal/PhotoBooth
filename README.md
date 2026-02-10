@@ -23,8 +23,8 @@ and creative photo memories inspired by coffee culture.
 - **Version Control:** Git & GitHub  
 
 
-![Home](screenshots/home.png)
-![Camera Page ](screenshots/camera-page.png)
+![Home](screenshots/home.png.png)
+![Camera Page ](screenshots/camera-page.png.png)
 
 
 PhotoBooth-Coffee-Edition/
